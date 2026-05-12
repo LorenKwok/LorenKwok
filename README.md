@@ -9,5 +9,9 @@ Hello, my name is Loren Kwok. I am a security and intelligence professional base
 
 -  **Bachelor of Arts  with major in Criminology, minor in Sociology and certificate in Police Studies, from Simon Fraser University**
 
-## Certification ##
-**CompTIA Security+**
+## Certifications ##
+- **CompTIA Security+**
+
+## Goals ##
+- Working towards CCNA
+- Learn MITRE ATT&CK concepts and do Cyber Threat Intelligence projects
