@@ -19,3 +19,5 @@ Please note the following when navigating my profile:
 ## Goals ##
 - Working towards CCNA
 - Learn MITRE ATT&CK concepts and do Cyber Threat Intelligence projects
+- Learn Python for security automation
+- Learn Splunk for SIEM familiarity and complete Battle of the SOC datasets
