@@ -1,6 +1,6 @@
 ## Introduction ##
 
-Hello, my name is Loren Kwok. I am a security and intelligence professional based in Vancouver, BC with research interests in geopolitics, cybersecurity, political risk, and counter-terrorism. Here on GitHub, I plan to upload various tools and writeups to share my programming and information technology learning journey.
+Hello, my name is Loren Kwok. I am a security and intelligence professional based in Vancouver, BC with research interests in geopolitics, cybersecurity, political risk, and counter-terrorism. Here on GitHub, I document my journey in self-learning cybersecurity as well as programming and information technology.
 
 Please note the following when navigating my profile:
 - Any labs I do will be placed into the [Labs](https://github.com/LorenKwok/Labs) repository.
