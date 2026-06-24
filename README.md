@@ -6,7 +6,7 @@ Please note the following when navigating my profile:
 - Any labs I do will be placed into the [Labs](https://github.com/LorenKwok/Labs) repository.
 - Any writeups I do, whether it be for Capture the Flag events or articles, will be placed in the [Writeups](https://github.com/LorenKwok/Writeups) repository.
 
-#Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/loren-kwok/)!
+**Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/loren-kwok/)!**
 
 ## Education ##
 -  **Master of Science in Strategic Studies from the S. Rajaratnam School of International Studies in Nanyang Technological University**
