@@ -3,8 +3,8 @@
 Hello, my name is Loren Kwok. I am a security and intelligence professional based in Vancouver, BC with research interests in geopolitics, cybersecurity, political risk, and counter-terrorism. Here on GitHub, I document my journey in self-learning cybersecurity as well as programming and information technology.
 
 Please note the following when navigating my profile:
-- Any labs I do will be placed into the [Labs](https://github.com/LorenKwok/Labs) repository.
-- Any writeups I do, whether it be for Capture the Flag events or articles, will be placed in the [Writeups](https://github.com/LorenKwok/Writeups) repository.
+- Any labs I do will be placed into the [Labs](https://github.com/LorenKwok/Labs) repository (including Capture the Flags, TryHackMe modules, and others)
+- My writing will be placed in the [Writeups](https://github.com/LorenKwok/Writeups) repository.
 
 **Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/loren-kwok/)!**
 
